@@ -1,0 +1,41 @@
+.header {
+    background: url(../imagenes/2.jpg) no-repeat center;
+    background-size: cover;
+    min-height: 100vh;
+  }
+  
+  
+  .header .navbar {
+    background-color: transparent !important;
+  }
+  
+  
+  .pie {
+    background: url(../imagenes/cielo.png) no-repeat center;
+    background-size: 100% 100%;
+    
+  
+  
+  }
+  
+  
+  .cuerpo {
+    background: url(../imagenes/6.jpg) no-repeat center;
+    background-size: 90% 100%;
+  
+  }
+  
+  .navegacion{
+    background: url(../imagenes/cielo.png);
+    background-size: 100% 100%;
+    background-color: transparent !important
+    
+  
+  }
+  
+  .navbar-inverse .navbar-toggler-icon{
+    padding: 30px !important;
+  }
+  
+   
+  
